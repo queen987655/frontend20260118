@@ -1,0 +1,22 @@
+#peiyu{
+            color:gold;
+            font-size: 20px;
+            opacity: 0.5;
+        }
+        .red{
+            color:rgb(78, 91, 216);
+            font-size: 40px;
+        }
+        h1{
+            color: green;
+        }
+
+        .blue{
+            color: blue;
+        }
+        #peiyu .yellow{
+            color: yellow;
+        }
+        #peiyu img{
+            opacity: 0;
+        }
